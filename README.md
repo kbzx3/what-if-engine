@@ -25,6 +25,8 @@ pip install -r requirements.txt
 
 3. Set up your GenAI API key:
 
+Get your key from https://ai.google.dev/gemini-api/docs/api-key
+
 Copy the example environment file:
 
 cp keys.env.example keys.env
